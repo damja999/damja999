@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with code.
 - 💬 Ask me about nothing
-- 📫 How to reach me: dont
+- 📫 How to reach me: damjaljaroudy@gmail.com
 - 😄 Pronouns: him
 - ⚡ Fun fact: I used to own a playstation 3
