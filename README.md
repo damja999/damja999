@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on getting my computer science degree!
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, and java.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with code.
 - 💬 Ask me about my cat!
